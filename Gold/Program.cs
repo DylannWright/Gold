@@ -22,3 +22,4 @@ namespace Gold
             }
             return (gold);
         }
+    }
